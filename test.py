@@ -1,6 +1,6 @@
 #! python
 from random import Random, randint, random
-from tkinter.tix import INTEGER
+
 
 
 class Losowanie:
