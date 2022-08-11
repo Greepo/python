@@ -8,6 +8,7 @@ class Losowanie:
         self.numer = numer
         self.date = date
         self.numbers = numbers
+# x for number lines
 x=0
 file = open('dl.txt', 'r')
 Lines = file.readlines()
